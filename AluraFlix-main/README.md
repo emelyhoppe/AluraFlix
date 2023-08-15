@@ -1,2 +1,0 @@
-# AluraFlix
-Projeto "Netflix" alura
