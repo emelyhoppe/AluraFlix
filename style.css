@@ -2,7 +2,36 @@ body{
     background-color: #FDFCE9;
     color: #512615;
 }
+
+header img{
+    position: relative;
+}
+
 header{
     padding: 20px;
     border-bottom: 2px solid #AF7F23;
+    font-size: 32px;
+    color:#512615
+}
+
+.inicio{
+    display: flex;
+    justify-content: center; align-items: center;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+}
+
+.harmony{
+    font-size: 50px;
+}
+
+section {
+    background:#FDFCE9;
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
